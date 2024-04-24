@@ -27,7 +27,7 @@ install all dependencies
 -> change email credentials inside
 src -> utils -> transportEmails.ts -> auth
 
--> npm start
+-> npm run dev
 
 ## Links
 
